@@ -10,7 +10,7 @@ fn main() {
   let rect1  = Rectangle { width: 89, height: 90 };
    let result =  area(&rect1);
    println!(" the result of the area is {result}");
-   println!("this is the struct values {rect1:#?}");
+   println!("this is the struct values, just keeping the streak tradition {rect1:#?}");
 }
 
 
